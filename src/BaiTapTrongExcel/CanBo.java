@@ -1,4 +1,4 @@
-package BaiTapTrongExel;
+package BaiTapTrongExcel;
 
 public class CanBo  {
     public String name;

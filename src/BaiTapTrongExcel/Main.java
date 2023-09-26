@@ -1,4 +1,4 @@
-package BaiTapTrongExel;
+package BaiTapTrongExcel;
 
 import java.util.Scanner;
 

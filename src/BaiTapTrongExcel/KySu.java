@@ -1,4 +1,4 @@
-package BaiTapTrongExel;
+package BaiTapTrongExcel;
 
 public class KySu extends CanBo{
     private String nganhDaoTao;

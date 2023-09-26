@@ -1,4 +1,4 @@
-package BaiTapTrongExel;
+package BaiTapTrongExcel;
 
 public class CongNhan extends CanBo  {
    private int bac;
